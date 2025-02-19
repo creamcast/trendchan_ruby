@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Starting Ikio ranking generator..."
+ruby main.rb  # Replace with the actual filename
+echo "Done."
+read -p "Press Enter to exit..."
